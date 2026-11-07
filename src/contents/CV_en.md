@@ -7,7 +7,7 @@
 - Base: Shanghai, China
 - Website: [sne.moe](https://sne.moe)
 - Forge: [forge.asnk.io/sugar](https://forge.asnk.io/sugar)
-- GitHub: [github.com/SugarNekoE](https://github.com/SugarNekoE)
+- GitHub: [github.com/asaineko](https://github.com/asaineko)
 
 Systems-oriented software and infrastructure engineer focused on Linux, networking, cloud-native infrastructure, observability, backend engineering, and applied AI. My work covers Linux kernel development, cloud platforms, and private LLM inference platforms for production teams.
 

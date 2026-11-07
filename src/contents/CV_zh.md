@@ -7,7 +7,7 @@
 - 地点：中国，上海
 - 个人主页：[sne.moe](https://sne.moe)
 - Forge：[forge.asnk.io/sugar](https://forge.asnk.io/sugar)
-- GitHub：[github.com/SugarNekoE](https://github.com/SugarNekoE)
+- GitHub：[github.com/asaineko](https://github.com/asaineko)
 
 偏系统方向的软件与基础设施工程师，主要关注 Linux、计算机网络、云原生基础设施、可观测性、后端工程及 AI 应用。工作覆盖 Linux 内核开发、云平台，以及面向生产团队的私有 LLM 推理平台。
 
